@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/southlion-teamkhalaf/static/css/main.6b0a84c2.css",
-    "main.js": "/southlion-teamkhalaf/static/js/main.c8a8dc8b.js",
+    "main.js": "/southlion-teamkhalaf/static/js/main.2fb4d1e0.js",
     "static/media/logo.gym.jpeg": "/southlion-teamkhalaf/static/media/logo.gym.779d0b2a19fcbaa1b5f4.jpeg",
     "index.html": "/southlion-teamkhalaf/index.html",
     "main.6b0a84c2.css.map": "/southlion-teamkhalaf/static/css/main.6b0a84c2.css.map",
-    "main.c8a8dc8b.js.map": "/southlion-teamkhalaf/static/js/main.c8a8dc8b.js.map"
+    "main.2fb4d1e0.js.map": "/southlion-teamkhalaf/static/js/main.2fb4d1e0.js.map"
   },
   "entrypoints": [
     "static/css/main.6b0a84c2.css",
-    "static/js/main.c8a8dc8b.js"
+    "static/js/main.2fb4d1e0.js"
   ]
 }
