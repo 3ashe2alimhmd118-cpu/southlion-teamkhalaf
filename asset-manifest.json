@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/southlions/static/css/main.6b0a84c2.css",
-    "main.js": "/southlions/static/js/main.a46ad565.js",
+    "main.js": "/southlions/static/js/main.591aaa0a.js",
     "static/media/logo.gym.jpeg": "/southlions/static/media/logo.gym.779d0b2a19fcbaa1b5f4.jpeg",
     "index.html": "/southlions/index.html",
     "main.6b0a84c2.css.map": "/southlions/static/css/main.6b0a84c2.css.map",
-    "main.a46ad565.js.map": "/southlions/static/js/main.a46ad565.js.map"
+    "main.591aaa0a.js.map": "/southlions/static/js/main.591aaa0a.js.map"
   },
   "entrypoints": [
     "static/css/main.6b0a84c2.css",
-    "static/js/main.a46ad565.js"
+    "static/js/main.591aaa0a.js"
   ]
 }
