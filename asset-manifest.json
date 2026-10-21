@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/southlions/static/css/main.6b0a84c2.css",
-    "main.js": "/southlions/static/js/main.591aaa0a.js",
-    "static/media/logo.gym.jpeg": "/southlions/static/media/logo.gym.779d0b2a19fcbaa1b5f4.jpeg",
-    "index.html": "/southlions/index.html",
-    "main.6b0a84c2.css.map": "/southlions/static/css/main.6b0a84c2.css.map",
-    "main.591aaa0a.js.map": "/southlions/static/js/main.591aaa0a.js.map"
+    "main.css": "/southlion-teamkhalaf/static/css/main.6b0a84c2.css",
+    "main.js": "/southlion-teamkhalaf/static/js/main.c8a8dc8b.js",
+    "static/media/logo.gym.jpeg": "/southlion-teamkhalaf/static/media/logo.gym.779d0b2a19fcbaa1b5f4.jpeg",
+    "index.html": "/southlion-teamkhalaf/index.html",
+    "main.6b0a84c2.css.map": "/southlion-teamkhalaf/static/css/main.6b0a84c2.css.map",
+    "main.c8a8dc8b.js.map": "/southlion-teamkhalaf/static/js/main.c8a8dc8b.js.map"
   },
   "entrypoints": [
     "static/css/main.6b0a84c2.css",
-    "static/js/main.591aaa0a.js"
+    "static/js/main.c8a8dc8b.js"
   ]
 }
